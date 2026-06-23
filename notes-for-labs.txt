@@ -1,0 +1,70 @@
+
+Show how to check credits
+Show how to select model, agentic mode/ask mode
+
+Demo 0:
+Analyse this PDF & let me know how can I add codacy coverage to a repository
+let me know how can I add codacy coverage to a repository
+
+Demo 1
+
+Auto completion feature
+
+Demo 2 
+Reduce the output (add instructions to .github/copilot-instructions.md) - "Add modulo function to the file #file:calculator.js"
+
+# Project instructions
+
+## Response Style
+
+When responding to a question, please follow these guidelines:  
+- Be concise and to the point.  
+- Provide clear and actionable information.  
+- Avoid unnecessary details or explanations.  
+- Use bullet points or numbered lists when appropriate.  
+- Always aim to provide a helpful and informative response. 
+
+
+Additional tools - Read the key output (rtk) - CLI focused, Caveman instructions
+
+Demo 3 
+
+Show auto-completions 
+
+
+Demo 4
+
+Right model - "Write a java script function that validates an email address using regex"
+Alternate prompt - "Identify the race condition & provide remediation of code"
+
+
+Demo 5 & 6: 
+
+Scope prompts - "Explain me what the code does"
+Scope prompts - "Explain me what the code in #file:schdeuler.js does"
+
+use /compact  if needed
+
+
+Demo 7: Fresh Chats, batched questions 
+
+Use a fresh one every time. 
+If needed use /compact & /clear if needed
+
+
+Demo 8: 
+
+"github.copilot.enable": 
+	{"yaml": false, "xml": false}
+
+Demo 9: 
+Keep the instruction simple and clean. 
+
+
+Demo 10: 
+Show how to check the usage based on /chronicles
+
+
+
+
+
